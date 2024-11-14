@@ -16,3 +16,5 @@ class <ClassName>:
        <code>
 
    # As many methods as needed
+
+print (<ClassName>)
